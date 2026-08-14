@@ -121,11 +121,11 @@ https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctv4k" tvg-name="SCTV 4K" tvg-logo="https://i.imgur.com/eQVMAur.png" group-title="SCTV",SCTV 4K
 https://github.com/user-attachments/assets/6645991b-c51f-42ce-abf8-6352f96726fb
 #EXTINF:-1 tvg-id="sctvpth" tvg-name="SCTV PHIM" tvg-logo="https://i.imgur.com/6XAy6Qx.png" group-title="SCTV",SCTV PHIM
-https://vmttv.dpdns.org/VTVGo/?sctvphim
-
-#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://i.imgur.com/LX4d0BY.png" group-title="HTV",HTV1
+https://vmttv.dpdns.org/VTVGo/?sct1" tvg-logo="https://i.imgur.com/LX4d0BY.png" group-title="HTV",HTV1
 https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2" tvg-logo="https://i.imgur.com/USSjd2t.png" group-title="HTV",HTV2
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTvphim
+
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTVV2" tvg-logo="https://i.imgur.com/USSjd2t.png" group-title="HTV",HTV2
 https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://i.imgur.com/BmnUMzp.png" group-title="HTV",HTV3
 https://freem3u.xyz/api/live/play.m3u8?vid=192
@@ -467,7 +467,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=72
 #EXTINF:-1 tvg-id="tayninh2" tvg-name="TTV2 Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9a/TTV2_Tay_Ninh.png/revision/latest/scale-to-width-down/1200?cb=20250704141723&path-prefix=vi" group-title="Địa Phương Cũ",TTV2 Tây Ninh
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/testcard.mp4
 #EXTINF:-1 tvg-id="thainguyen" tvg-name="TN Thái Nguyên" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/TN_logo_2025.png/revision/latest?cb=20250707111207&path-prefix=vi" group-title="Địa Phương",TN Thái Nguyên
-https://freem3u.xyz/api/live/play.m3u8?vid=88
+https://vtvgolive-ott3.vtvdigital.vn/live/thainguyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-name="THTG Tiền Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/THTG_logo_2023.png/revision/latest?cb=20230827101416&path-prefix=vi" group-title="Địa Phương Cũ",THTG Tiền Giang
 https://freem3u.xyz/api/live/play.m3u8?vid=90
 #EXTINF:-1 tvg-id="thanhhoa" tvg-name="TTV Thanh Hóa" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/56/TTV_Thanh_H%C3%B3a.png/revision/latest?cb=20180718183027&path-prefix=vi" group-title="Địa Phương",TTV Thanh Hóa
