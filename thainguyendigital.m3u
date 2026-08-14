@@ -260,6 +260,13 @@ https://liveh12vng.vtvprime.vn/hls/ONSPORT9/04.m3u8
 #EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
 https://liveh12vng.vtvprime.vn/hls/ONSPORT10/04.m3u8
 
+#EXTINF:-1 tvg-id="tv360plus16" tvg-name="tv360 16" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/07/07/17/178341886042/8212b6f0ea56_480_270.png" group-title="Thử Nghiệm",Mr Beast 
+https://cdn.jsdelivr.net/gh/cuncon150413-cmd/tl-ottiptv@main/Mr%20Beast%20Stole%20The%20Precious%20Windows%20XP%20Crazy%20Error!%20-%20(480p).mp4
+#EXTINF:-1 tvg-id="tv360plus17" tvg-name="tv360 17" tvg-logo="https://images.genius.com/20d8156ea21ba5f31dcc09769e279117.1000x1000x1.png" group-title="Thử Nghiệm",DUNG DONG VAI ANH 
+https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/PHD%20-%20%C4%90%E1%BB%ABng%20%C4%90%C3%B3ng%20Vai%20Anh(Audio)%20(Official%20Audio)%20-%20PHD%20MUSIC%20(480p,%20h264,%20youtube).mp4
+#EXTINF:-1 tvg-id="tv360plus18" tvg-name="tv360 18" tvg-logo="https://i.ytimg.com/vi/DfZMqs28dYg/hq720.jpg" group-title="Thử Nghiệm",DEO CAI ANH CON
+https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/S%E1%BB%A9cM%E1%BA%A1nhPHD%20-%20%C4%90%E1%BB%AANG%20C%C3%83I%20ANH%20C%C3%94N(Audio)%20(official%20Audio)%20-%20S%E1%BB%A9c%20M%E1%BA%A1nh%20PHD%20(720p,%20h264,%20youtube).mp4
+
 #EXTINF:-1 tvg-id="fptplay" tvg-name="fpt play channel 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play
 https://live.fptplay53.net/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="fptplaylogin" tvg-name="fpt play channel 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/Logo_FPT_Play_from_2017.png/revision/latest/scale-to-width-down/1256?cb=20231112070725&path-prefix=vi" group-title="FPT Play",FPT Play Login
