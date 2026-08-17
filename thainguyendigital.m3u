@@ -350,7 +350,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=91
 https://github.com/cuncon150413-cmd/tl-ottiptv/raw/refs/heads/main/baotrikenhtruyenhinhtl.mp4
 
 #EXTINF:-1 tvg-id="angiang1" tvg-name="ATV1 An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/ATV1_logo_16.11-16.12.2025.png/revision/latest/scale-to-width-down/1000?cb=20251119124616&path-prefix=vi" group-title="Địa Phương",ATV1 An Giang
-https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=66
 #EXTINF:-1 tvg-id="angiang2" tvg-name="ATV2 An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest/scale-to-width-down/1000?cb=20250823043314&path-prefix=vi" group-title="Địa Phương",ATV2 An Giang
 https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 tvg-id="angiang3" tvg-name="ATV3 An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/ATV3_logo_07-2025.png/revision/latest/scale-to-width-down/1000?cb=20251018044550&path-prefix=vi" group-title="Địa Phương",ATV3 An Giang
@@ -403,10 +403,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=33
 https://freem3u.xyz/api/live/play.m3u8?vid=34
 #EXTINF:-1 tvg-id="hatinh" tvg-name="BHTTV Hà Tĩnh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/BHTTV_logo.svg/revision/latest/scale-to-width-down/300?cb=20260307142310" group-title="Địa Phương",BHTTV Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
-#EXTINF:-1 tvg-id="haiphong3" tvg-name="THD Hải Dương" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d2/HDTV_2023-2025.png/revision/latest/scale-to-width-down/1000?cb=20230925025249&path-prefix=vi" group-title="Địa Phương Cũ",THD Hải Dương
-https://web.archive.org/web/20251231123317oe_/https://live.mediatech.vn/live/285857e204bb558402db3b431e183b6638d/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphong" tvg-name="THP Hải Phòng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/THP_logo.svg/500px-THP_logo.svg.png" group-title="Địa Phương",THP Hải Phòng
 https://live-hq.evgcdn.net/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-id="haiphong3" tvg-name="THP3 Hải Phòng" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/THP3_2026.png/revision/latest/scale-to-width-down/1000?cb=20260101113817&path-prefix=vi" group-title="Địa Phương",THP3 Hải Phòng
+https://freem3u.xyz/api/live/play.m3u8?vid=61
 #EXTINF:-1 tvg-id="hue" tvg-name="HuếTV Huế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/LogoHueTV_2025.png" group-title="Địa Phương",HuếTV Huế
 https://freem3u.xyz/api/live/play.m3u8?vid=63
 #EXTINF:-1 tvg-id="phutho" tvg-name="Hòa Bình TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/HBTV_HD_cho_logo_T%E1%BA%BFt_2021-2025_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/1000?cb=20241016134928&path-prefix=vi" group-title="Địa Phương Cũ",HBTV Hòa Bình
