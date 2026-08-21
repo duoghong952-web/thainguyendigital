@@ -546,12 +546,26 @@ https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 https://tructuyen.baoquangtri.vn:5443/WebRTCAppEE/streams/9GwZb90MRel72veq246724788395010.m3u8
 #EXTINF:-1 tvg-id="sonlaradio" tvg-name="fm" tvg-logo="https://i.imgur.com/DBCIXQt.png" group-title="FM Radio",Sơn La Radio
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
+#EXTINF:-1 tvg-id="thainguyenradio" group-title="Radio" tvg-logo="http://esb.thainguyentv.vn/upload/group/news//hytvgo_5ff2dd1ed1b81.jpg", Thái Nguyên
+https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="tayninhradio" tvg-name="fm" tvg-logo="https://i.imgur.com/yjeKPrx.png" group-title="FM Radio",Tây Ninh 96.9 mhz & 103.1 mhz Radio
 https://live.mediatech.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
 #EXTINF:-1 tvg-id="tuyenquangradio" tvg-name="fm" tvg-logo="https://i.imgur.com/qZR7w6J.png" group-title="FM Radio",Tuyên Quang 95.6 mhz Radio
 https://luuchieu.truyenhinhso.vn/media/live/EDBFCBB8687FE7589B3CDFEB/index.m3u8
 #EXTINF:-1 tvg-id="vinhlongaudio" tvg-name="fm" tvg-logo="https://i.imgur.com/A0XcC3n.png" group-title="FM Radio",Vĩnh Long Radio
 https://dethich.pw/thvlaudio/index.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
+https://stream.zeno.fm/4q7y9hvkp2zuv
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/", Cải Lương Việt Nam
+https://stream.zeno.fm/0trm6wrnga0uv
+#EXTINF:-1 group-title=Radio" tvg-logo="https://dongnhacvang.com/wp-content/uploads/2019/08/cropped-logo-nhac-vang-1-2.png", Radio Nhạc Vàng Xưa
+https://stream.zeno.fm/x2z45v7d84zuv
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/", Radio DJ
+https://stream.zeno.fm/ehbutdfccm0uv
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/", Radio Phật Giáo
+https://stream.zeno.fm/8456uy0bcm0uv
+#EXTINF:-1 group-title="Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/", Radio Nhạc Dân Ca
+https://stream.zeno.fm/a2dbs2tq1p8uv
 
 #EXTINF:-1 tvg-id="ArirangRadio" tvg-name="fm" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="Radio Quốc Tế",Arirang Radio
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
@@ -1594,3 +1608,19 @@ https://vip.opstream90.com/20260312/26990_72417e4a/3000k/hls/mixed.m3u8
 https://rumble.com/hls-vod/757w6u/playlist.m3u8
 #EXTINF:-1 group-title="LIVE EVENTS 🔴" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 11
 https://rumble.com/hls-vod/75uhgc/playlist.m3u8
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://ukradiolive.com/public/uploads/radio_img/heart-london/fb_cover.jpg", Heart FM UK
+https://media-ssl.musicradio.com/HeartUK
+#EXTINF:-1 group-title="🇬🇧 UK Radio" tvg-logo="https://www.globalplayer.com/assets/track-placeholders/capital.jpg", Capital Radio UK
+https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1 tvg-id="VirginMediaThree.ie" group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Virgin_Media_Three_logo_2018.svg/3840px-Virgin_Media_Three_logo_2018.svg.png", Virgin Media Three
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b10708238b2fe95e0080fe17c28d88fb:1afd6317f3b44772aa2463e1ea1f7d42
+https://d3n2r2x6pixas4.cloudfront.net/out/v1/426d7a9e942b4f64917d66940bd3b147/index.mpd
+#EXTINF:-1 tvg-id="VirginMediaFour.ie" group-title="Israel" tvg-logo="https://i.ytimg.com/vi/QZZijZXNeqo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC-WbMQHFRNT0NZEmZ7Wngm4na2TQ", Virgin Media Four
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
+https://d1o5wc5bjvzqoa.cloudfront.net/out/v1/bb744b243afb44eabcc56d002c36cafd/index.mpd
