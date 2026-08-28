@@ -425,7 +425,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=68
 https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 tvg-id="laocai" tvg-name="THLC Lào Cai" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ad/THLC_2016.png/revision/latest/scale-to-width-down/1200?cb=20211224040641&path-prefix=vi" group-title="Địa Phương",THLC Lào Cai
 https://live.baolaocai.vn/channel2/stream.m3u8?t=0
-#EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV Lâm Đồng" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/LTV_Lam_Dong_logo_09-2025.png/revision/latest/scale-to-width-down/1000?cb=20250927092024&path-prefix=vi" group-title="Địa Phương",LTV1 Lâm Đồng (sạch)
+#EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV1 Lâm Đồng" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/800?cb=20260213000053&path-prefix=vi" group-title="Địa Phương",LTV1 Lâm Đồng (sạch)
 https://live.baolamdong.vn/ltv1/index.m3u8?_t=1785075065348&_t=1785075100180
 #EXTINF:-1 tvg-id="lamdong1" tvg-name="LTV1 Lâm Đồng" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest/scale-to-width-down/800?cb=20260213000053&path-prefix=vi" group-title="Địa Phương",LTV1 Lâm Đồng
 https://freem3u.xyz/api/live/play.m3u8?vid=69
