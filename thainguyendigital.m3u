@@ -26,6 +26,33 @@ https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_56000
 #EXTINF:-1 tvg-id="vtv10hd" tvg-name="vtv10" tvg-logo="https://i.imgur.com/5XG54nA.png" group-title="VTV",VTV10 HD
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="vtv1" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="VTV THU NGHIEM AAC",VTV1 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv1_paid/live/vtv1_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="vtv2" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="VTV THU NGHIEM AAC",VTV2 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv2_paid/live/vtv2_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="vtv3" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="VTV THU NGHIEM AAC",VTV3 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv3_paid/live/vtv3_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="vtv4" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="VTV THU NGHIEM AAC",VTV4 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv4_paid/live/vtv4_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-name="vietnam today" tvg-logo="https://i.imgur.com/QNLgrCY.png" group-title="VTV THU NGHIEM AAC",VietNam Today THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vntd_paid/live/vntd_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="vtv5" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="VTV THU NGHIEM AAC",VTV5 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5_paid/live/vtv5_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="vtv5 tây nam bộ" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="VTV THU NGHIEM AAC",VTV5 Tây Nam Bộ HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tnb_paid/live/vtv5tnb_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="vtv5 tây nguyên" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="VTV THU NGHIEM AAC",VTV5 Tây Nguyên HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv5tn_paid/live/vtv5tn_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="vtv6" tvg-logo="https://i.imgur.com/sEUEboU.png" group-title="VTV THU NGHIEM AAC",VTV6 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv6_paid/live/vtv6_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="vtv7" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="VTV THU NGHIEM AAC",VTV7 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv7_paid/live/vtv7_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="vtv8" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="VTV THU NGHIEM AAC",VTV8 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv8_paid/live/vtv8_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="vtv9" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="VTV "THU NGHIEM AAC,VTV9 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv9_paid/live/vtv9_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" tvg-name="vtv10" tvg-logo="https://i.imgur.com/5XG54nA.png" group-title="VTV THU NGHIEM AAC",VTV10 HD THU NGHIEM AAC
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws/vtv10_paid/live/vtv10_1080p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="antv" tvg-name="antv" tvg-logo="https://i.imgur.com/JQUR4X6.png" group-title="Thiết Yếu",ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="qpvn" tvg-name="qpvn" tvg-logo="https://i.imgur.com/gW6btoz.png" group-title="Thiết Yếu",QPVN HD
